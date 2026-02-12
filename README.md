@@ -1,3 +1,2 @@
 Issues:
-
- chalk texture
+chalk texture
