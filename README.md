@@ -1,3 +1,3 @@
 Issues:
 
-Inifinite toggle switching, chalk texture
+ chalk texture
